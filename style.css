@@ -1,0 +1,26 @@
+body {
+  padding: 50px 100px;
+}
+h1 {
+  text-align: center;
+  background-color: #006780;
+  color: aliceblue;
+  padding: 10px;
+  margin: 0px;
+}
+#textbox {
+  width: 99%;
+  resize: none;
+  border: 2px solid black;
+  margin-top: 3rem;
+}
+p {
+  text-align: center;
+  border: 2px solid black;
+  font-size: 30px;
+  background-color: #006780;
+  color: aliceblue;
+  padding: 10px;
+  margin: 0px;
+  margin-top: 3rem;
+}
